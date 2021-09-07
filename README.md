@@ -25,7 +25,7 @@
 * Interested in **Computer Vision** 
 
 <br>
-<div align=center>
+
 ### Stacks
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
@@ -34,6 +34,6 @@
 ![Numpy Badge](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashhyun&show_icons=true&theme=radical)
-</div>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youkind)](https://solved.ac/youkind/)
