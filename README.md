@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jaehyun%20Kang&fontSize=60)
 
-<p>
-  <a href="mailto:youkind98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/youkind98@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jaehyun-kang-904aaa1ba/" target="_blank"><img src="https://img.shields.io/badge/Jaehyun Kang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -19,6 +15,11 @@
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
+</p>
+<br><br>
+<p>
+  <a href="mailto:youkind98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/youkind98@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jaehyun-kang-904aaa1ba/" target="_blank"><img src="https://img.shields.io/badge/Jaehyun Kang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 <p>
   <b>AI Engineer</b> using pytorch👋 <br/>
