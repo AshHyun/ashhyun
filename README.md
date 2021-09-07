@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Numpy-005571?style=flat-square&logo=Numpy&logoColor=white"/></a>&nbsp 
 </p>
 <p>
   <b>AI Engineer</b> using pytorch👋 <br/>
