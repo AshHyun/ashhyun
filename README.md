@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/jaehyun-kang-904aaa1ba/" target="_blank"><img src="https://img.shields.io/badge/Jaehyun Kang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 <p>
-  <b>AI Engineer</b> using pytorch👋 <br/>
+  <b>AI Engineer</b> using pytorch <br/>
   Undergraduate at <b>Yonsei University</b> <br/>
   <b>Boostcamper</b> of Boostcamp AI Tech by Naver Connect Foundation🍀 <br/>
   Interested in <b>Time Series</b> and <b>Computer Vision</b> <br/><br/>
