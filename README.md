@@ -24,7 +24,7 @@
   <b>AI Engineer</b> using pytorch <br/>
   Undergraduate at <b>Yonsei University</b> <br/>
   <b>Boostcamper</b> of Boostcamp AI Tech by Naver Connect Foundation🍀 <br/>
-  Interested in <b>Time Series</b> and <b>Computer Vision</b> <br/><br/>
+  Interested in <b>Computer Vision</b> <br/><br/>
 </p>
 
 <br>
